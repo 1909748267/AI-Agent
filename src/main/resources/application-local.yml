@@ -1,0 +1,15 @@
+spring:
+  ai:
+    dash scope:
+      api-key: sk-b7244b5707c04677967ae4982dd29ae1
+      chat:
+        options:
+          model: qwen-plus
+  datasource:
+    url: jdbc:postgresql://localhost/ai_agent
+    username: postgres
+    password: 123456
+# searchApi
+search-api:
+  api-key: jZ4PC8jsUUk5U9ZRyn8AVEYQ
+
